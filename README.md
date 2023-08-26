@@ -1,7 +1,7 @@
 # IPv6 Extension Header PCAPs
 
 For those who know networking, there are very few opportunities to get your hands on packet capture (pcaps) that have IPv6 Extension Headers.  There are a number of reasons for this, and one is that extension headers in IPv6 have always been a security vulnerability.  So many service providers do not support transport of IPv6 packets with extension headers.
-* Initial Tests in 2014 were recorded in RFC 7872.
+* Initial Tests in 2014 were recorded in RFC 7872 https://www.rfc-editor.org/rfc/rfc7872
 * Geoff Huston has set up a worldwide testing client/server system that tests this worldwide: https://stats.labs.apnic.net/v6frag
 
 ## What are IPv6 Extension Headers?
