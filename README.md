@@ -1,4 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/amwalding5/count.svg)
+
+If you are looking for my IPv6 Reference repository - look here: https://github.com/amwalding/ipv6-ref
+
 # IPv6 Extension Header PCAPs
 
 For those who know networking, there are very few opportunities to get your hands on packet capture (pcaps) that have IPv6 Extension Headers.  There are a number of reasons for this, and one is that extension headers in IPv6 have always been a security vulnerability.  So many service providers do not support transport of IPv6 packets with extension headers.
